@@ -23,8 +23,8 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="retro-title"> Mundo 2: Redes de Optimización CDMX</div>', unsafe_allow_html=True)
-st.markdown('<div class="retro-text">Desarrollado por: Christian Gabriel Villafuerte Aguilar y Esteban Gonzalez Reyes </div><br>', unsafe_allow_html=True)
+st.markdown('<div class="retro-title"> Redes de Optimización CDMX</div>', unsafe_allow_html=True)
+st.markdown('<div class="retro-text">Desarrollado por: Grecia Paola Cossio Placencia </div><br>', unsafe_allow_html=True)
 
 # 2. Definición de la Red Base
 def crear_red_metro():
